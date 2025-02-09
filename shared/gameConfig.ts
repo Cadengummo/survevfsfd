@@ -234,7 +234,7 @@ export const GameConfig = {
         bombJitter: 4,
         bombOffset: 2,
         bombVel: 3,
-        bombCount: 20,
+        bombCount: 40,
         planeVel: 350,
         planeRad: 120,
         soundRangeMult: 18,
